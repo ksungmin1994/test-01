@@ -1,0 +1,478 @@
+{
+  "primary": {
+    "normal": {
+      "value": "{purple.60}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "text": {
+      "value": "{purple.50}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "assistive": {
+      "value": "{purple.70}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "alpha": {
+      "value": "#8c37fb1f",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": "light: purpe-600, opacity/12 dark: purpe-600, opacity/12"
+    }
+  },
+  "system": {
+    "error": {
+      "value": "{red.40}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "warning": {
+      "value": "{yellow.50}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "success": {
+      "value": "{green.50}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "update": {
+      "value": "{red.60}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    }
+  },
+  "point": {
+    "magenta": {
+      "value": "{magenta.50}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "blue": {
+      "value": "{blue.60}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "indigo": {
+      "value": "{indigo.70}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "teal": {
+      "value": "{teal.40}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "orange": {
+      "value": "{orange.50}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "blue-alpha": {
+      "value": "#38aefa1f",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": "light: blue-500, opacity/12 dark: blue-500, opacity/12"
+    },
+    "indigo-alpha": {
+      "value": "#646dff1f",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": "light: indigo-700, opacity/12 dark: indigo-700, opacity/12"
+    },
+    "teal-alpha": {
+      "value": "#13b9a51f",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": "light: teal-400, opacity/12 dark: teal-400, opacity/12"
+    },
+    "orange-alpha": {
+      "value": "#ff8a000d",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": "light: orange-500, opacity/5 dark: orange-500, opacity/5"
+    }
+  },
+  "brand": {
+    "nc": {
+      "value": "#003569",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "l2m-primary": {
+      "value": "#db6f31",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "l2m-grade-common": {
+      "value": "#48484d",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "l2m-grade-rare": {
+      "value": "#17a64d",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "l2m-grade-unique": {
+      "value": "#167fd0",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "l2m-grade-epic": {
+      "value": "#b72544",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "l2m-grade-mythic": {
+      "value": "#d49400",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "l2m-chat-friendly": {
+      "value": "#6ea700",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "l2m-grade-legend": {
+      "value": "#a050c5",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "l2m-chat-group1": {
+      "value": "#815e0a",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "l2m-chat-group2": {
+      "value": "#d09e03",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    }
+  },
+  "glyphs": {
+    "strong": {
+      "value": "{black.100}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": "강조된 text, icon에 사용"
+    },
+    "normal": {
+      "value": "{gray.10}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "assistive-1": {
+      "value": "{gray.30}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "assistive-2": {
+      "value": "{gray.45}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "disabled": {
+      "value": "{gray.70}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "inverse": {
+      "value": "{white.100}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "strong-common": {
+      "value": "{white.0}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": "강조된 text, icon에 사용(테마공통)"
+    },
+    "normal-common": {
+      "value": "#ffffffcc",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": "light: neutral-999, opacity/80 dark: neutral-999, opacity/80"
+    },
+    "assistive-common": {
+      "value": "#ffffff99",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": "light: neutral-999, opacity/60, dark: neutral-999, opacity/60"
+    },
+    "disabled-common": {
+      "value": "#ffffff33",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": "light: neutral-999, opacity/20, dark: neutral-999, opacity/20"
+    }
+  },
+  "neutral": {
+    "neutral-000": {
+      "value": "{black.100}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "neutral-005": {
+      "value": "{gray.4}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "neutral-010": {
+      "value": "{gray.10}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "neutral-015": {
+      "value": "{gray.15}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "neutral-025": {
+      "value": "{gray.25}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "neutral-040": {
+      "value": "{gray.40}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "neutral-055": {
+      "value": "{gray.55}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "neutral-065": {
+      "value": "{gray.65}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "neutral-075": {
+      "value": "{gray.75}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "neutral-085": {
+      "value": "{gray.85}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "neutral-097": {
+      "value": "{gray.97}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "neutral-999": {
+      "value": "white.100",
+      "type": "color",
+      "parent": "semantic/light"
+    }
+  },
+  "background": {
+    "base-1": {
+      "value": "{white.100}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "base-2": {
+      "value": "{gray.90}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "container-1": {
+      "value": "{white.100}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "container-2": {
+      "value": "{gray.95}",
+      "type": "color",
+      "parent": "semantic/light"
+    },
+    "container-3": {
+      "value": "{gray.97}",
+      "type": "color",
+      "parent": "semantic/light"
+    }
+  },
+  "stroke": {
+    "normal": {
+      "value": "{gray.95}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "strong": {
+      "value": "{gray.90}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "normal-alpha": {
+      "value": "#00000014",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "strong-alpha": {
+      "value": "#0000001f",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    }
+  },
+  "states": {
+    "hover": {
+      "value": "{black.4a}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "pressed": {
+      "value": "{black.8a}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "hover-common": {
+      "value": "{white.8a}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "pressed-common": {
+      "value": "{black.12a}",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    }
+  },
+  "dimmed": {
+    "normal": {
+      "value": "#000000b3",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    },
+    "assistive": {
+      "value": "#00000080",
+      "type": "color",
+      "parent": "semantic/light",
+      "description": ""
+    }
+  },
+  "light": {
+    "primary gradient": {
+      "value": "linear-gradient(135deg, #de3ff1 0%, #4915ff 100%)",
+      "type": "color"
+    },
+    "live gradient": {
+      "value": "linear-gradient(90deg, #00bbd5 0%, #00d770 100%)",
+      "type": "color",
+      "description": "Live Service Color"
+    },
+    "talk gradient": {
+      "description": "Talk Service Color",
+      "value": "linear-gradient(90deg, #8d7aff 0%, #0048db 100%)",
+      "type": "color"
+    },
+    "on gradient": {
+      "description": "On Service Color",
+      "value": "linear-gradient(90deg, #fd7991 0%, #f35cb6 50.52%, #c500ca 100%)",
+      "type": "color"
+    },
+    "wallet gradient": {
+      "description": "Wallet Service Color",
+      "value": "linear-gradient(90deg, #f282ff 0%, #680ed2 100%)",
+      "type": "color"
+    }
+  },
+  "shadow": {
+    "2": {
+      "value": {
+        "x": "0",
+        "y": "2",
+        "blur": "2",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.08)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "4": {
+      "value": {
+        "x": "0",
+        "y": "4",
+        "blur": "4",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.08)",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow"
+    },
+    "12": {
+      "value": {
+        "x": "0",
+        "y": "12",
+        "blur": "12",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.08)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "16": {
+      "value": {
+        "x": "0",
+        "y": "16",
+        "blur": "16",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.12)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "24": {
+      "value": {
+        "x": "0",
+        "y": "24",
+        "blur": "24",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.12)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
+  }
+}

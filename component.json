@@ -1,0 +1,25 @@
+{
+  "button_test": {
+    "value": {
+      "fill": "{primary.normal}",
+      "paddingTop": "4",
+      "paddingRight": "4",
+      "paddingBottom": "4",
+      "paddingLeft": "4",
+      "borderRadius": "{r4}",
+      "fontFamilies": "{fontFamilies.apple-sd-gothic-neo}",
+      "fontSizes": "{fontSize.pc.body3}",
+      "fontWeights": "{fontWeights.bold}"
+    },
+    "type": "composition"
+  },
+  "contained button_test1": {
+    "value": {
+      "sizing": "52",
+      "typography": "{mo.body2.bold}",
+      "borderRadius": "{r4}",
+      "fill": "{primary.normal}"
+    },
+    "type": "composition"
+  }
+}
